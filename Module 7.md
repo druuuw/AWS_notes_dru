@@ -41,7 +41,7 @@ Object storage
 
 ### Volume Types
 
-![Untitled](Module%207%20254e287229794a82aa653cd415115b78/Untitled.png)
+![Untitled](Images/Untitled.png)
 
 - Only SSDs can be used as boot volumes for EC2
 - Lower cost options might be for additional storage or other use cases

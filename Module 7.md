@@ -211,7 +211,7 @@ Object storage
 
 ### Architecture
 
-![Untitled](Module%207%20254e287229794a82aa653cd415115b78/Untitled%201.png)
+![Untitled](Images/Untitled%201.png)
 
 ### EFS implementation
 
@@ -252,7 +252,7 @@ Primary resources can be configured with supporting resources like
 - Supports encryption of data in transit & at rest via Secure Sockets Layer (SSL) or Transport Layer Security (TLS)
 - Vault Lock feature enforces compliance through policy
 
-![Untitled](Module%207%20254e287229794a82aa653cd415115b78/Untitled%202.png)
+![Untitled](Images/Untitled%202.png)
 
 ### 3 key terms
 
@@ -296,8 +296,8 @@ Primary resources can be configured with supporting resources like
 
 - Enable you to delete or move objects based on age
 
-![Untitled](Module%207%20254e287229794a82aa653cd415115b78/Untitled%203.png)
+![Untitled](Images/Untitled%203.png)
 
 ### Storage comparison
 
-![Untitled](Module%207%20254e287229794a82aa653cd415115b78/Untitled%204.png)
+![Untitled](Images/Untitled%204.png)

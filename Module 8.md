@@ -1,4 +1,4 @@
-# Module 8
+# Module 8: Databases
 
 ## Section 1: Amazon Relation Database Service (RDS)
 

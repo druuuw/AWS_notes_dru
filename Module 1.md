@@ -1,4 +1,4 @@
-# Module 1
+# Module 1: Cloud Concepts Overview
 
 ## Link: [here](https://reminiscent-crabapple-0d0.notion.site/Module-1-42d0e04c32604b1b998e42832380aaae?pvs=4)
 

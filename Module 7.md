@@ -1,4 +1,4 @@
-# Module 7
+# Module 7: Storage
 
 ## Section 1: Amazon Elastic Block Store (Amazon EBS)
 

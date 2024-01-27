@@ -29,7 +29,7 @@ When you run your own relational database, you are responsible for several admin
 
 Managed service that sets up and operates relational database in cloud
 
-![Untitled](Module%208%20fbdfb187681f42728d6cf087e52996e2/Untitled.png)
+![Untitled](Images/Module%208%20fbdfb187681f42728d6cf087e52996e2/Untitled.png)
 
 - Provides cost-efficient and resizable capacity, while automating time-consuming administrative tasks to address
 - Sets ups, operates, and scales relational dbs without ongoing administration to tackle challenge of running unmanaged, standalone relational db
@@ -37,7 +37,7 @@ Managed service that sets up and operates relational database in cloud
 
 ### From on-premises db to RDS
 
-![Untitled](Module%208%20fbdfb187681f42728d6cf087e52996e2/Untitled%201.png)
+![Untitled](Images/Module%208%20fbdfb187681f42728d6cf087e52996e2/Untitled%201.png)
 
 honestly i dont understand what this means
 
@@ -68,7 +68,7 @@ AWS Manages:
 
 ### RDS in VPC
 
-![Untitled](Module%208%20fbdfb187681f42728d6cf087e52996e2/Untitled%202.png)
+![Untitled](Images/Module%208%20fbdfb187681f42728d6cf087e52996e2/Untitled%202.png)
 
 ### High availability with Multi-AZ deployment
 
@@ -99,7 +99,7 @@ instance
     - reduce load on source db instance by routing read queries to read replica
 - Use cases
     
-    ![Untitled](Module%208%20fbdfb187681f42728d6cf087e52996e2/Untitled%203.png)
+    ![Untitled](Images/Module%208%20fbdfb187681f42728d6cf087e52996e2/Untitled%203.png)
     
 
 ### When to use RDS
@@ -170,7 +170,7 @@ Data transfer
 
 ### Relational vs non-relational db
 
-![Untitled](Module%208%20fbdfb187681f42728d6cf087e52996e2/Untitled%204.png)
+![Untitled](Images/Module%208%20fbdfb187681f42728d6cf087e52996e2/Untitled%204.png)
 
 - Relational -
     - works w structured data organized by tables, records, and columns.
@@ -225,7 +225,7 @@ You can retrieve data from a DynamoDB table in 2 diff ways:
 
 ### Items in a table must have a key
 
-![Untitled](Module%208%20fbdfb187681f42728d6cf087e52996e2/Untitled%205.png)
+![Untitled](Images/Module%208%20fbdfb187681f42728d6cf087e52996e2/Untitled%205.png)
 
 To take full advantage of query operations and DynamoDB, important to think about key that you use to uniquely identify items in table. You can set up a simple primary key based on single attribute of data values with a uniform distribution such as the Globally Unique Identifier (GUID) or other random identifiers
 
@@ -248,7 +248,7 @@ A fast, fully managed data warehouse that makes it simple and cost-effective to 
 
 ### Parallel processing architecture
 
-![Untitled](Module%208%20fbdfb187681f42728d6cf087e52996e2/Untitled%206.png)
+![Untitled](Images/Module%208%20fbdfb187681f42728d6cf087e52996e2/Untitled%206.png)
 
 Leader Node:
 
